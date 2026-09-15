@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background: #FBF8F3;
+    color: #1D1B18;
+     font-family: "Molle", cursive;
+     font-size: 18px;
+     line-height: 1.65;
+}
+
+h1, h2, h3 {
+    
+
+}
